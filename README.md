@@ -1,7 +1,7 @@
 # Bird's Eye View
 
 <p align="center">
-  <img src="img/task_overview.png" height="180">
+  <img src="task_overview.png" height="180">
 </p>
 
 This code accompanies the paper *["Learning to map surrounding vehicles into bird's eye view using synthetic data"](https://arxiv.org/pdf/1706.08442.pdf)*.
@@ -16,7 +16,7 @@ The **whole dataset**, which comprises more than **1M** couples of bounding boxe
 ## Input - Prediction - Output
 
 <p align="center">
-  <img src="img/helloworld.PNG">
+  <img src="helloworld.PNG">
 </p>
 
 #### Dependencies
